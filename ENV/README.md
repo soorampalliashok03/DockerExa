@@ -1,0 +1,1 @@
+ENV is the instruction to provide the environent variables to image and containers
