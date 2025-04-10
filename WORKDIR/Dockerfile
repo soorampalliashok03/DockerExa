@@ -1,3 +1,3 @@
 from almalinux
-run cd /tmp/
+workdir /tmp/
 run touch hello.txt
